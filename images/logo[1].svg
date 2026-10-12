@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-label="Side Quest Coffee Co. logo">
+<rect width="1000" height="1000" fill="#173B36"/>
+<g transform="translate(0 -40)">
+<polygon points="500,210 647,295 647,465 500,550 353,465 353,295" fill="none" stroke="#F0B429" stroke-width="10" stroke-linejoin="round"/>
+<polygon points="500,232 628,306 628,454 500,528 372,454 372,306" fill="none" stroke="#F0B429" stroke-width="2" stroke-opacity="0.45" stroke-linejoin="round"/>
+<path d="M478 386 C455 360 522 346 500 318 C480 294 528 300 548 284" fill="none" stroke="#F0B429" stroke-width="7" stroke-linecap="round" stroke-dasharray="1 15"/>
+<path d="M557 263 L575 281 M575 263 L557 281" stroke="#F0B429" stroke-width="7" stroke-linecap="round"/>
+<path d="M436 400 H544 V460 Q544 494 510 494 H470 Q436 494 436 460 Z" fill="#F4EFE6"/>
+<path d="M544 418 Q578 418 578 444 Q578 470 544 470" fill="none" stroke="#F4EFE6" stroke-width="12" stroke-linecap="round"/>
+<circle cx="466" cy="422" r="7" fill="#173B36"/>
+<circle cx="490" cy="446" r="7" fill="#173B36"/>
+<circle cx="514" cy="470" r="7" fill="#173B36"/>
+<rect x="420" y="500" width="140" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.35"/>
+</g>
+<text x="318" y="720" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="124" fill="#F4EFE6">Side</text>
+<text x="640" y="720" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-style="italic" font-size="124" fill="#F0B429" transform="rotate(-4 640 690)">Quest</text>
+<rect x="200" y="788" width="90" height="3" fill="#F4EFE6" fill-opacity="0.5"/>
+<rect x="710" y="788" width="90" height="3" fill="#F4EFE6" fill-opacity="0.5"/>
+<text x="500" y="800" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-weight="700" font-size="30" letter-spacing="10" fill="#F4EFE6">COFFEE CO.</text>
+<text x="500" y="856" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" letter-spacing="6" fill="#C9D6D1">BREWS &amp; BOARD GAMES</text>
+</svg>
